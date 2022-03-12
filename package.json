@@ -115,10 +115,5 @@
     "dayjs": "*",
     "react": "*",
     "react-native": "*"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn lint:fix && yarn prettier && yarn tsc"
-    }
   }
 }
